@@ -1,0 +1,1 @@
+This is tic-tac-toe game which i guess you must have played in your childhood. This Project is the representation of the same game which you can play with your friends and this uses html,css and js. This is my first project where I used html,css and js.
